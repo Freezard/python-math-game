@@ -1,23 +1,21 @@
-Detta är ett matematikspel för yngre spelare, inspirerat av Space Invaders, Tetris och Breakout. Målet är att öva på huvudräkningen.
+Detta Ã¤r ett matematikspel fÃ¶r yngre spelare, inspirerat av Space Invaders, Tetris och Breakout. MÃ¥let Ã¤r att Ã¶va pÃ¥ huvudrÃ¤kningen.
 
 Nytt spel:
-För att starta ett nytt spel trycker du 1, 2 eller 3 på tangentbordet. Siffrorna motsvarar level 1, 2 och 3, som är svårighetsgraden.
+FÃ¶r att starta ett nytt spel trycker du 1, 2 eller 3 pÃ¥ tangentbordet. Siffrorna motsvarar level 1, 2 och 3, som Ã¤r svÃ¥righetsgraden.
 
 Regler:
-Nummer från 1-9 flyter från ena skärmen till den andra. När du skjuter ett nummer adderas det till ditt score. Det gäller att skjuta nummer så att ditt score blir exakt detsamma som target score. Klarar du det inleds en ny spelrunda med ett nytt target score. Du vinner när du klarat av alla rundor och förlorar om du skjuter så att ditt score blir högre än target score, eller om numrena flyter utanför skärmen.
+Nummer frÃ¥n 1-9 flyter frÃ¥n ena skÃ¤rmen till den andra. NÃ¤r du skjuter ett nummer adderas det till ditt score. Det gÃ¤ller att skjuta nummer sÃ¥ att ditt score blir exakt detsamma som target score. Klarar du det inleds en ny spelrunda med ett nytt target score. Du vinner nÃ¤r du klarat av alla rundor och fÃ¶rlorar om du skjuter sÃ¥ att ditt score blir hÃ¶gre Ã¤n target score, eller om numrena flyter utanfÃ¶r skÃ¤rmen.
 
-Svårighetsgrader:
-Level 1: Du styr en spelare och target score är litet. Antal spelrundor = 3.
-Level 2: Du styr två spelare samtidigt och target score är stort. Antal spelrundor = 5.
-Level 3: Du styr två spelare samtidigt och target score är stort. Antal spelrundor = 10.
+SvÃ¥righetsgrader:
+Level 1: Du styr en spelare och target score Ã¤r litet. Antal spelrundor = 3.
+Level 2: Du styr tvÃ¥ spelare samtidigt och target score Ã¤r stort. Antal spelrundor = 5.
+Level 3: Du styr tvÃ¥ spelare samtidigt och target score Ã¤r stort. Antal spelrundor = 10.
 
 Kontroller:
-Styr spelare vänster: A
-Styr spelare höger: D
+Styr spelare vÃ¤nster: A
+Styr spelare hÃ¶ger: D
 Skjut: W
 Avsluta spel: ESC
 Nytt spel: 1-3
 
-Grafik är gjort av mig. Ljud och musik är taget från http://www.freesfx.co.uk/.
-
-Mattias Majetic - 2013
+Grafik Ã¤r gjort av mig. Ljud och musik Ã¤r taget frÃ¥n http://www.freesfx.co.uk/
